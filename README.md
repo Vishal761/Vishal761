@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Vishal761
+- 👋 Hi, I’m Vishal
 - 👀 I’m interested in WEB 3 and Blockchain
 - 🌱 I’m currently learning Blockchain Basics and Solidity
 - 💞️ I’m looking to collaborate on Blockchain developement
-- 📫 How to reach me jorivishal761@gmail.com
+- 📫 Reach me on jorivishal761@gmail.com
